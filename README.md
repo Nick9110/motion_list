@@ -1,4 +1,4 @@
-This is an Note Taking Web site known as MOtion List which has been equipped with Open Ai Dalle and many other intersting features sure check this out 
+This is an Note Taking Web site known as MOtion List which has been equipped with Open Ai Dalle and many other intersting features sure check this out . 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
